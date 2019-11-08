@@ -475,6 +475,8 @@ System.Data.Services.Internal.ExpandedWrapper`2[[System.Windows.Markup.XamlReade
 
 .NET反序列化的攻击链还是比较难找。审计的话就看`type` 和 `xml` 这2个值是否可控。
 
+文章如有错误，多多提醒，万分感谢
+
 
 
 ### 参考文章:
